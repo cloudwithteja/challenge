@@ -74,7 +74,7 @@ Input validation & error handling code
 
 I walked through the entire authentication flow, traced how notes were stored and retrieved, and followed how JWTs were being used across the system.
 
-<img width="623" height="135" alt="image" src="https://github.com/user-attachments/assets/a2aad997-8f24-4a70-ba07-7d473da3cad6" />
+
 
 
 2. Detailed Findings
